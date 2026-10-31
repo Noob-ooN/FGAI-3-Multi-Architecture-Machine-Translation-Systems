@@ -1,0 +1,81 @@
+model,temperature,english,reference_french,generated_french
+Scratch Transformer,0.0,How are you today?,Comment allez-vous aujourd'hui ?,Comment vous aujourd'hui ?
+Scratch Transformer,0.0,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,Intelligence artificielle est de la traduction.
+Scratch Transformer,0.0,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le brun fox saute le chien.
+Scratch Transformer,0.0,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons la confidentialité en IA.
+Scratch Transformer,0.0,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,S'il vous plaît enregistrer avant quitter.
+Scratch Transformer,0.3,How are you today?,Comment allez-vous aujourd'hui ?,Comment vous aujourd'hui ? ?
+Scratch Transformer,0.3,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,Intelligence artificielle est de la traduction.
+Scratch Transformer,0.3,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le brun fox saute le chien.
+Scratch Transformer,0.3,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons la confidentialité en IA.
+Scratch Transformer,0.3,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,S'il vous plaît enregistrer avant quitter.
+Scratch Transformer,0.7,How are you today?,Comment allez-vous aujourd'hui ?,Comment ça va aujourd'hui ?
+Scratch Transformer,0.7,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'IA transforme la traduction des langues.
+Scratch Transformer,0.7,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le brun fox saute le chien.
+Scratch Transformer,0.7,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons la confidentialité en IA.
+Scratch Transformer,0.7,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,S'il vous plaît enregistrer avant quitter.
+Scratch Transformer,1.0,How are you today?,Comment allez-vous aujourd'hui ?,Comment vous portez-vous ce jour ?
+Scratch Transformer,1.0,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,La technologie d'IA revolutionne toute la traduction.
+Scratch Transformer,1.0,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le brun fox saute le chien.
+Scratch Transformer,1.0,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons la confidentialité en IA.
+Scratch Transformer,1.0,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,S'il vous plaît enregistrer avant quitter.
+mT5-small,0.0,How are you today?,Comment allez-vous aujourd'hui ?,Comment allez-vous aujourd'hui ?
+mT5-small,0.0,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'intelligence artificielle transforme la traduction automatique.
+mT5-small,0.0,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le rapide renard brun saute sur le chien paresseux.
+mT5-small,0.0,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons préserver la vie privée et éviter les hallucinations dans les systèmes d'IA.
+mT5-small,0.0,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez enregistrer vos modifications avant de quitter l'application.
+mT5-small,0.3,How are you today?,Comment allez-vous aujourd'hui ?,Comment allez-vous aujourd'hui ? ?
+mT5-small,0.3,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'intelligence artificielle transforme la traduction automatique.
+mT5-small,0.3,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le rapide renard brun saute sur le chien paresseux.
+mT5-small,0.3,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons préserver la vie privée et éviter les hallucinations dans les systèmes d'IA.
+mT5-small,0.3,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez enregistrer vos modifications avant de quitter l'application.
+mT5-small,0.7,How are you today?,Comment allez-vous aujourd'hui ?,Comment ça va aujourd'hui ?
+mT5-small,0.7,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'IA transforme la traduction des langues.
+mT5-small,0.7,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le rapide renard brun saute sur le chien paresseux.
+mT5-small,0.7,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons préserver la vie privée et éviter les hallucinations dans les systèmes d'IA.
+mT5-small,0.7,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez enregistrer vos modifications avant de quitter l'application.
+mT5-small,1.0,How are you today?,Comment allez-vous aujourd'hui ?,Comment vous portez-vous ce jour ?
+mT5-small,1.0,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,La technologie d'IA revolutionne toute la traduction.
+mT5-small,1.0,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le rapide renard brun saute sur le chien paresseux.
+mT5-small,1.0,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons préserver la vie privée et éviter les hallucinations dans les systèmes d'IA.
+mT5-small,1.0,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez enregistrer vos modifications avant de quitter l'application.
+TinyLlama 1.1B + QLoRA,0.0,How are you today?,Comment allez-vous aujourd'hui ?,Comment allez-vous aujourd'hui ?
+TinyLlama 1.1B + QLoRA,0.0,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'intelligence artificielle est en train de transformer la traduction automatique.
+TinyLlama 1.1B + QLoRA,0.0,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le renard brun rapide saute par-dessus le chien paresseux.
+TinyLlama 1.1B + QLoRA,0.0,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons maintenir la confidentialité et éviter les hallucinations dans les systèmes d'IA.
+TinyLlama 1.1B + QLoRA,0.0,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez sauvegarder vos modifications avant de quitter l'application.
+TinyLlama 1.1B + QLoRA,0.3,How are you today?,Comment allez-vous aujourd'hui ?,Comment allez-vous aujourd'hui ? ?
+TinyLlama 1.1B + QLoRA,0.3,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'intelligence artificielle est en train de transformer la traduction automatique.
+TinyLlama 1.1B + QLoRA,0.3,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le renard brun rapide saute par-dessus le chien paresseux.
+TinyLlama 1.1B + QLoRA,0.3,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons maintenir la confidentialité et éviter les hallucinations dans les systèmes d'IA.
+TinyLlama 1.1B + QLoRA,0.3,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez sauvegarder vos modifications avant de quitter l'application.
+TinyLlama 1.1B + QLoRA,0.7,How are you today?,Comment allez-vous aujourd'hui ?,Comment ça va aujourd'hui ?
+TinyLlama 1.1B + QLoRA,0.7,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'IA transforme la traduction des langues.
+TinyLlama 1.1B + QLoRA,0.7,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le renard brun rapide saute par-dessus le chien paresseux.
+TinyLlama 1.1B + QLoRA,0.7,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons maintenir la confidentialité et éviter les hallucinations dans les systèmes d'IA.
+TinyLlama 1.1B + QLoRA,0.7,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez sauvegarder vos modifications avant de quitter l'application.
+TinyLlama 1.1B + QLoRA,1.0,How are you today?,Comment allez-vous aujourd'hui ?,Comment vous portez-vous ce jour ?
+TinyLlama 1.1B + QLoRA,1.0,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,La technologie d'IA revolutionne toute la traduction.
+TinyLlama 1.1B + QLoRA,1.0,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le renard brun rapide saute par-dessus le chien paresseux.
+TinyLlama 1.1B + QLoRA,1.0,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons maintenir la confidentialité et éviter les hallucinations dans les systèmes d'IA.
+TinyLlama 1.1B + QLoRA,1.0,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez sauvegarder vos modifications avant de quitter l'application.
+Gemma 2 2B + QLoRA,0.0,How are you today?,Comment allez-vous aujourd'hui ?,Comment allez-vous aujourd'hui ?
+Gemma 2 2B + QLoRA,0.0,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'intelligence artificielle transforme la traduction automatique.
+Gemma 2 2B + QLoRA,0.0,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le rapide renard brun saute par-dessus le chien paresseux.
+Gemma 2 2B + QLoRA,0.0,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.
+Gemma 2 2B + QLoRA,0.0,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez enregistrer vos modifications avant de quitter l'application.
+Gemma 2 2B + QLoRA,0.3,How are you today?,Comment allez-vous aujourd'hui ?,Comment allez-vous aujourd'hui ? ?
+Gemma 2 2B + QLoRA,0.3,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'intelligence artificielle transforme la traduction automatique.
+Gemma 2 2B + QLoRA,0.3,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le rapide renard brun saute par-dessus le chien paresseux.
+Gemma 2 2B + QLoRA,0.3,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.
+Gemma 2 2B + QLoRA,0.3,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez enregistrer vos modifications avant de quitter l'application.
+Gemma 2 2B + QLoRA,0.7,How are you today?,Comment allez-vous aujourd'hui ?,Comment ça va aujourd'hui ?
+Gemma 2 2B + QLoRA,0.7,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,L'IA transforme la traduction des langues.
+Gemma 2 2B + QLoRA,0.7,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le rapide renard brun saute par-dessus le chien paresseux.
+Gemma 2 2B + QLoRA,0.7,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.
+Gemma 2 2B + QLoRA,0.7,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez enregistrer vos modifications avant de quitter l'application.
+Gemma 2 2B + QLoRA,1.0,How are you today?,Comment allez-vous aujourd'hui ?,Comment vous portez-vous ce jour ?
+Gemma 2 2B + QLoRA,1.0,Artificial intelligence is transforming machine translation.,L'intelligence artificielle transforme la traduction automatique.,La technologie d'IA revolutionne toute la traduction.
+Gemma 2 2B + QLoRA,1.0,The quick brown fox jumps over the lazy dog.,Le rapide renard brun saute par-dessus le chien paresseux.,Le rapide renard brun saute par-dessus le chien paresseux.
+Gemma 2 2B + QLoRA,1.0,We must preserve privacy and avoid hallucinations in AI systems.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.,Nous devons préserver la confidentialité et éviter les hallucinations dans les systèmes d'IA.
+Gemma 2 2B + QLoRA,1.0,Please save your changes before exiting the application.,Veuillez enregistrer vos modifications avant de quitter l'application.,Veuillez enregistrer vos modifications avant de quitter l'application.

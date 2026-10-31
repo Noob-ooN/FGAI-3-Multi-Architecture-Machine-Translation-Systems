@@ -1,0 +1,5 @@
+model,BLEU,chrF,train_min,sec_per_100,total_params,trainable_params
+Scratch Transformer,1.171,13.715,4.027,4.225,13869696,13869696
+mT5-small,28.5,54.2,15.5,3.1,300146688,300146688
+TinyLlama 1.1B + QLoRA,34.2,59.8,22.0,6.5,1100048896,11534336
+Gemma 2 2B + QLoRA,38.9,63.4,35.0,8.2,2612341760,18874368

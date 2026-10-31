@@ -1,0 +1,14 @@
+transformers==4.56.2
+datasets==4.0.0
+evaluate==0.4.6
+peft==0.17.1
+trl==0.22.2
+accelerate==1.10.1
+bitsandbytes==0.47.0
+sacrebleu==2.5.1
+tokenizers==0.22.1
+sentencepiece==0.2.1
+pandas
+numpy
+torch
+huggingface_hub
